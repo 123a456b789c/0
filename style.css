@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.myButton {
+	box-shadow: 7px 18px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:6px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:20px 40px;
+	text-decoration:none;
+	text-shadow:9px 6px 9px #810e05;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.link:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+	cursor: pointer;
+}
+.link:active {
+	position:relative;
+	top:1px;
+}
+
+.szoveg1 {
+
+width: 60%;
+font-size: 25px;
+text-align: center;
+text-justify: inter-word;
+color:#840000;
+font-family: 'Open Sans', sans-serif;
+font-weight: 900;
+margin: 0 auto;
+}
+
+.szoveg2 {
+width: 60%;
+font-size: 25px;
+text-align: centered;
+color:#840000;
+font-family: 'Open Sans', sans-serif;
+margin: 0 auto;
+
+}
+
+.szoveg3 {
+
+width: 60%;
+font-size: 25px;
+text-align: justify;
+text-justify: inter-word;
+color:#840000;
+font-family: 'Open Sans', sans-serif;
+font-weight: 900;
+margin: 0 auto;
+
+
+
+}
+
+.fel {
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+  z-index: 999;
+}
+
+.fel0 {
+  position: fixed;
+  bottom: 30px;
+  left: 10px;
+  z-index: 999;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+body{
+
+background-image: url('hajos5.jpg');
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: cover;
+text-align:center;
+}
+
+p {
+color:#840000;
+font-family: 'Open Sans', sans-serif;
+}
+
+
+
+h1 {
+
+font-size: 3em;
+font-weight: bold;
+color:#840000;
+left: 50%;
+right: 50%;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+#hasab1{
+width: auto;
+height: auto;
+display:inline-block;
+position:fixed
+left: 50%;
+right: 50%;
+
+}
+
+#hasab2{
+
+width: auto;
+height: auto;
+display:inline-block;
+position: fixed;
+left: 30%;
+right: 70%;
+.style1 {color: #74AD5A}
+
+
+
+        
+
+
